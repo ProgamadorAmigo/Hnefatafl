@@ -39,7 +39,7 @@ body{
     width: 720px;
     height: 520px;
     position: absolute;
-    left: 40px;
+    right: 64%;
     border-radius: 5%;
 }
 
