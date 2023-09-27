@@ -36,21 +36,21 @@ body{
 
 .Image{
     background-image: url(assests/hnef.webp);
-    width: 720px;
-    height: 520px;
+    width: 44%;
+    height: 80%;
     position: absolute;
-    right: 64%;
+    left: 3%;
     border-radius: 5%;
 }
 
 .Text{
-    font-size: 30px;
+    font-size: 25px;
     text-align: start;
 }
 
 .l1{
     position: absolute;
-    left: 42%;
+    left: 48%;
     margin-right: 40px;
 }
 
